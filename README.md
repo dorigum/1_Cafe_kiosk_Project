@@ -73,7 +73,13 @@ src/
 Cafe Kiosk 프로젝트는 모든 설계 및 작업 일지를 도큐멘테이션하여 관리하고 있습니다. 아래 링크에서 상세 내용을 확인하실 수 있습니다.
 
 - 📝 [PROJECT LOG (전체 문서 통합 인덱스)](documents/PROJECT_LOG.md)
+- 📋 [PROJECT SPECIFICATION (요구사항 정의 및 기능 명세서)](documents/info/Project_Specification.md)
 - 📋 [ORDERING VIEW SPECIFICATION (주문 화면 명세서)](documents/info/OrderingView.md)
+- 📋 [ADMIN FLOW SPECIFICATION (관리자 기능 설계서)](documents/info/카페%20키오스크_관리자%20기능%20관리%20명세서.md)
+- 🏗️ [ADMIN FLOW DIAGRAM (관리자 기능 흐름도)](documents/info/AdminFlow.md)
+- 🚨 [PRESENTATION MATERIALS (프로젝트 발표 자료)](documents/info/Presentation_Materials.md)
+- 📐 [DATABASE SCHEMA (스키마 정의서 DDL.sql)](documents/info/DDL.sql)
+- 🐳 [DOCKER COMPOSE CONFIG (Docker Compose 설정)](documents/guides/docker-compose.yml)
 - 🛠️ [CheckData.java (데이터 검증 스크립트)](src/CheckData.java)
 - 🛠️ [ListTables.java (테이블 조회 스크립트)](src/ListTables.java)
 - 🛠️ [TestQuery.java (쿼리 테스트 스크립트)](src/TestQuery.java)
