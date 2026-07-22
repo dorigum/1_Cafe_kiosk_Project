@@ -53,14 +53,15 @@ src/
 
 ---
 
-## 📂 프로젝트 구조 (Repository Structure)
+## 📂 5. 프로젝트 상세 문서 (상세 내용 확인)
 
-```
-1_Cafe_kiosk_Project/
-├── src/                    # Java 소스 코드 (MVC 구조)
-├── lib/                    # Oracle JDBC 드라이버 라이브러리
-├── scripts/                # 데이터 적재 및 시드 생성 스크립트 (Python)
-└── documents/              # 프로젝트 명세 문서 및 기록
-    ├── PROJECT_LOG.md      # 문서 통합 인덱스
-    └── info/               # 키오스크 주문 화면 상세 기획안 (OrderingView.md)
-```
+Cafe Kiosk 프로젝트는 모든 설계 및 작업 일지를 도큐멘테이션하여 관리하고 있습니다. 아래 링크에서 상세 내용을 확인하실 수 있습니다.
+
+- 📝 [PROJECT LOG (전체 문서 통합 인덱스)](documents/PROJECT_LOG.md)
+- 📋 [ORDERING VIEW SPECIFICATION (주문 화면 명세서)](documents/info/OrderingView.md)
+- 🛠️ [CheckData.java (데이터 검증 스크립트)](src/CheckData.java)
+- 🛠️ [ListTables.java (테이블 조회 스크립트)](src/ListTables.java)
+- 🛠️ [TestQuery.java (쿼리 테스트 스크립트)](src/TestQuery.java)
+
+---
+*Updated at_2026.07.23*
